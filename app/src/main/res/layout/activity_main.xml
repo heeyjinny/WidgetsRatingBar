@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
+<!--  레이팅바 생성, 밑에 텍스트뷰 생성  -->
     <RatingBar
         android:id="@+id/ratingBar"
         android:layout_width="wrap_content"
